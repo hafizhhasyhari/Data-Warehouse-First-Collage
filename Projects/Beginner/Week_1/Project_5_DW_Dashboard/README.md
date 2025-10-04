@@ -25,6 +25,7 @@ This project uses **Python + Streamlit**, but can be adapted to other languages 
 
 ```bash
 pip install -r requirements.txt
+```
 
 Make sure dw_week1.db from Project 3 exists and contains sample data.
 Running the Dashboard
