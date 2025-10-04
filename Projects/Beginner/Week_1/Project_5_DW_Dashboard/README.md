@@ -33,13 +33,14 @@ Run the Streamlit application:
 
 ```bash
 streamlit run dw_dashboard.py
-
+```
+---
 - The dashboard opens in your browser.
 - Features:
   -  Table of sales_fact with product & customer info
   -  Bar chart: Total sales per product
   - Bar chart: Total sales per region
-
+---
 Expected Outcome
 - Interactive table showing sales data
 - Visual bar charts for product and region sales
